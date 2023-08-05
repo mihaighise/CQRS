@@ -1,10 +1,10 @@
-package com.mihaighise.productqueryservice;
+package com.mihaighise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductQueryServiceApplicationTests {
+class ProductCommandServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

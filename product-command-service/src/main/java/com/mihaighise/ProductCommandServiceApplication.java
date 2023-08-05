@@ -1,4 +1,4 @@
-package com.mihaighise.productcommandservice;
+package com.mihaighise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
